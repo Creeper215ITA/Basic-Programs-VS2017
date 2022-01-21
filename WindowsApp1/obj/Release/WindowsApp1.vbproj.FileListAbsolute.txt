@@ -1,0 +1,11 @@
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.exe.config
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.exe
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.pdb
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.xml
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Form1.resources
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.cache
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.exe
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.xml
+c:\users\andre\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.pdb
